@@ -29,6 +29,8 @@
   <img src="fern/images/geico_shu_recording_cropped.gif"/>
 </p>
 
+This is the version of Sebastian Feger.
+
 Traditional approaches to browser automations required writing custom scripts for websites, often relying on DOM parsing and XPath-based interactions which would break whenever the website layouts changed.
 
 Instead of only relying on code-defined XPath interactions, Skyvern relies on Vision LLMs to learn and interact with the websites.
